@@ -10,3 +10,8 @@ print(1+2)
 print("hello universe")
 
 # COMMAND ----------
+
+print("hello galaxy")
+
+# COMMAND ----------
+
